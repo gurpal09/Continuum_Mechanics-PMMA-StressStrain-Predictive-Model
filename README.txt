@@ -13,8 +13,8 @@ The project was completed in Matlab and the file descriptions are given below:
 - Model_vs_Exp.m ->
 - Voight.m ->
 - Mooney_Rivlen.m ->
-rsquare.m ->
-test.m ->
-data.m -> 
+- rsquare.m ->
+- test.m ->
+- data.m -> 
 
 A pdf report of the project is included for anyone that is interested!
