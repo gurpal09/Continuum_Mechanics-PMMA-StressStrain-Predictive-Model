@@ -6,15 +6,15 @@ The model predicts deformation (strain) given measured stress/strain data.
 The model is nonlinear and a r^2 metric was used to find a 'good fit.'
 The project was completed in Matlab and the file descriptions are given below:
 
-- Maxwell.m ->
-- Model_Comparison.m ->
-- LinearElasticIso.m ->
-- Sensitivity_Study.m ->
-- Model_vs_Exp.m ->
-- Voight.m ->
-- Mooney_Rivlen.m ->
-- rsquare.m ->
-- test.m ->
-- data.m -> 
+- Maxwell.m           -> Computes the Maxwell model 
+- Model_Comparison.m  -> Compares model and gives r^2 value
+- LinearElasticIso.m  -> Computes the simple linear elastic model for data
+- Sensitivity_Study.m -> Study to optimize coefficients for DSGZ model
+- Model_vs_Exp.m      -> Compares model with experimental results
+- Voight.m            -> Computes voight model for data
+- Mooney_Rivlen.m     -> Computes Mooney_Rivlen model for data
+- rsquare.m           -> Function to compute r^2 value
+- test.m              ->
+- data.m              -> 
 
 A pdf report of the project is included for anyone that is interested!
