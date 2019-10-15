@@ -15,5 +15,7 @@ The project was completed in Matlab and the file descriptions are given below:
 - Mooney_Rivlen.m     -> Computes Mooney_Rivlen model for data
 - rsquare.m           -> Function to compute r^2 value
 - data.m              -> Data extracted using Grabit from academic papers
+- grabit.m            -> Function to grab data from images
+- Curvefit.m          -> Function for fitting curve to data and optimize coeffs
 
 A pdf report of the project is included for anyone that is interested!
