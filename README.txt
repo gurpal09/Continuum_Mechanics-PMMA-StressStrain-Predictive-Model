@@ -14,7 +14,6 @@ The project was completed in Matlab and the file descriptions are given below:
 - Voight.m            -> Computes voight model for data
 - Mooney_Rivlen.m     -> Computes Mooney_Rivlen model for data
 - rsquare.m           -> Function to compute r^2 value
-- test.m              ->
-- data.m              -> 
+- data.m              -> Data extracted using Grabit from academic papers
 
 A pdf report of the project is included for anyone that is interested!
